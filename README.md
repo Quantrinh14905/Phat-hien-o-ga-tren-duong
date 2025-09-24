@@ -1,7 +1,8 @@
 🚗 PHÁT HIỆN Ổ GÀ TRÊN MẶT ĐƯỜNG VÀ CẢNH BÁO ÂM THANH SỬ DỤNG YOLOv8
-## 📸 Minh họa kết quả
 
-(https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/raw/main/Ảnh%20chụp%20màn%20hình%202025-09-24%20144038.png)
+
+![Ảnh minh họa](https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/raw/main/Ảnh%20chụp%20màn%20hình%202025-09-24%20144038.png)
+
 
 
 1. Giới thiệu
