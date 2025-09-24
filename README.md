@@ -48,11 +48,6 @@ Vì vậy, nghiên cứu này tập trung xây dựng một hệ thống **tự 
   - `ultralytics` – YOLOv8  
   - `gtts` – tạo giọng nói tiếng Việt  
   - `playsound` – phát âm thanh
-    Hệ thống đã phát hiện ổ gà trên đường thành công với mô hình Segmentation và đưa ra cảnh báo bằng giọng nói.  
-
-
-![Kết quả phát hiện ổ gà](https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-09-24%20144805.png).
-
 
 ## 5. Kết quả đạt được
  Hệ thống đã phát hiện ổ gà trên đường thành công với mô hình Segmentation và đưa ra cảnh báo bằng giọng nói.  
