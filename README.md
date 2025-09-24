@@ -54,7 +54,13 @@ Vì vậy, nghiên cứu này tập trung xây dựng một hệ thống **tự 
 ![Kết quả phát hiện ổ gà](https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-09-24%20144805.png).
 
 
-## 5. Kiến trúc hệ thống
+## 5. Kết quả đạt được
+ Hệ thống đã phát hiện ổ gà trên đường thành công với mô hình Segmentation và đưa ra cảnh báo bằng giọng nói.  
+
+
+![Kết quả phát hiện ổ gà](https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-09-24%20144805.png).
+
+## 6. Kiến trúc hệ thống
 ```text
 Camera (điện thoại/iPhone) 
         ↓
