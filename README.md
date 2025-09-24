@@ -1,4 +1,5 @@
 🚗 PHÁT HIỆN Ổ GÀ TRÊN MẶT ĐƯỜNG VÀ CẢNH BÁO ÂM THANH SỬ DỤNG YOLOv8
+(144038.png)
 
 1. Giới thiệu
 Tai nạn giao thông do các yếu tố hạ tầng, đặc biệt là **ổ gà trên mặt đường**, đang là vấn đề nhức nhối hiện nay. Các phương tiện giao thông, đặc biệt là xe máy và ô tô, có thể gặp nguy hiểm khi đi qua những đoạn đường có ổ gà mà người lái không kịp xử lý.  
