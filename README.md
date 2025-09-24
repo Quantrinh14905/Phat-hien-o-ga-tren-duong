@@ -47,9 +47,12 @@ Vì vậy, nghiên cứu này tập trung xây dựng một hệ thống **tự 
   - `opencv-python` – xử lý video  
   - `ultralytics` – YOLOv8  
   - `gtts` – tạo giọng nói tiếng Việt  
-  - `playsound` – phát âm thanh  
+  - `playsound` – phát âm thanh
+    Hệ thống đã phát hiện ổ gà trên đường thành công với mô hình Segmentation và đưa ra cảnh báo bằng giọng nói.  
 
----
+
+![Kết quả phát hiện ổ gà](https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-09-24%20144805.png).
+
 
 ## 5. Kiến trúc hệ thống
 ```text
@@ -82,11 +85,6 @@ Tích hợp trực tiếp vào ứng dụng di động để sử dụng camera 
 
 Kết hợp GPS để ghi lại và chia sẻ vị trí ổ gà trên bản đồ giao thông.
 ## 📊 Kết quả đạt được
-
-Hệ thống đã phát hiện ổ gà trên đường thành công với mô hình Segmentation và đưa ra cảnh báo bằng giọng nói.  
-
-
-![Kết quả phát hiện ổ gà](https://github.com/Quantrinh14905/Phat-hien-o-ga-tren-duong/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-09-24%20144805.png).
 
 
 8. Thông tin tác giả
